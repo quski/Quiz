@@ -1,0 +1,31 @@
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\bin\Debug\quizzapp.exe.config
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\bin\Debug\quizzapp.exe
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\bin\Debug\quizzapp.pdb
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.csprojResolveAssemblyReference.cache
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.addquestions.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.AdminLogin.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.Form1.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.Form2.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.messageform.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.Properties.Resources.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.setexam.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.studentlogin.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.test.resources
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.csproj.GenerateResource.Cache
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.exe
+C:\Users\Anjali kumari\documents\visual studio 2012\Projects\quizzapp\quizzapp\obj\Debug\quizzapp.pdb
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\bin\Debug\quizzapp.exe.config
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\bin\Debug\quizzapp.exe
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\bin\Debug\quizzapp.pdb
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.addquestions.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.AdminLogin.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.Form1.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.Form2.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.Properties.Resources.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.test.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.csproj.GenerateResource.cache
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.csproj.CoreCompileInputs.cache
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.exe
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.pdb
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.setexam.resources
+C:\Users\Tycia\Desktop\quizzapp\quizzapp\obj\Debug\quizzapp.csprojAssemblyReference.cache
